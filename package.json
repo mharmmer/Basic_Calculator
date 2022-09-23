@@ -1,0 +1,23 @@
+{
+  "name": "basic_calculator",
+  "version": "1.0.0",
+  "description": "Calculator with basic functions",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mharmmer/Basic_Calculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mharmmer/Basic_Calculator/issues"
+  },
+  "homepage": "https://github.com/mharmmer/Basic_Calculator#readme",
+  "devDependencies": {
+    "jest": "^29.0.3"
+  }
+}
